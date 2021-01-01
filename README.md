@@ -22,7 +22,7 @@ Server code to manage piSignage players in a LAN or Private Network or to setup 
 1. Default authentication credentials for player webUI has been changed to pi:pi
 1. New settings tab has been added for settings instead of config/env/all.js file
 1. New player software upgrades are automatically pulled to the server and you can upgrade from the local server itself
-1. Upload new licenses bought to the local server so that they are automatically installed in the pi
+1. Upload new licenses bought to the local server so that they are automatically installed in the pi OR use `Generate license` button on `Settings` dashboard and enter your site name and player id to generate license file
 1. Authentication has been added to the server UI which can be changed under settings (default pi:pi)
 
 
@@ -156,6 +156,9 @@ Server code to manage piSignage players in a LAN or Private Network or to setup 
 4. You can also manage players using Browser(http://playerip:8000) or downloading Chrome app
 
 5. Make sure installation under settings page is same as your username (not email) at pisignage.com  
+
+## License self generating
+Use `Generate license` button on `Settings` dashboard and enter your site name and player id to generate licence file
 
     
 ***Please raise an issue for problems or send us email at support@pisignage.com***  
