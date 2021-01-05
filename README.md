@@ -1,5 +1,9 @@
 # pisignage-server
 
+## About the fork
+This repo is a fork of https://github.com/colloqi/pisignage-server
+I added unlimited licence generator
+
 Server code to manage piSignage players in a LAN or Private Network or to setup your own server!
 
     run npm install command after git pull and before starting the server
